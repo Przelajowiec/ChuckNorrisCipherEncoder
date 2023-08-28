@@ -1,0 +1,22 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Chuck Norris Cipher Encoder (Java)/*
+!/Chuck Norris Cipher Encoder (Java)/task/
+/Chuck Norris Cipher Encoder (Java)/task/*
+!/Chuck Norris Cipher Encoder (Java)/task/src
+
+# Project exclude paths
+/Topics/Instance methods/Complex numbers/out/
+/Topics/Instance methods/Complex numbers/out/production/classes/
+/Topics/The for-loop/The sum of integers from a to b/out/
+/Topics/The for-loop/The sum of integers from a to b/out/production/classes/
